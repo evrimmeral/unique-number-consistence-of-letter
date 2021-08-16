@@ -87,16 +87,13 @@ Process finished with exit code 0
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/evrimmeral/unique-number-consistence-of-letter.git
    ```
 2. Build tha project on your local machine
    ```sh
      mvn clean install package
      ```
-3. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+
 
 
 ## Contributing
@@ -109,10 +106,9 @@ Any contributions you make are **greatly appreciated**.
 5. Open a Pull Request
 
 
-<!-- CONTACT -->
 ## Contact
 
 Evrim Meral - evrimmeral@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/evrimmeral/unique-number-consistence-of-letter.git](https://github.com/evrimmeral/unique-number-consistence-of-letter.git)
 
